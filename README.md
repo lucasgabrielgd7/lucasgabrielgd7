@@ -1,5 +1,7 @@
 Olá! O meu nome é Lucas 🖑
 
+****Eu sou dedicado, esforçado e perfeccionista. tudo o que eu faço eu procuro sempre fazer bem feito.****
+
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgabrielgd7&theme=radical)
 
 *TECNOLIGIAS QUE EU USO ATÉ O MOMENTO*
