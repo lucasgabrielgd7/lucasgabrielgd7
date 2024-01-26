@@ -1,5 +1,7 @@
 Olá! O meu nome é Lucas 🖑
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 *TECNOLIGIAS QUE EU USO ATÉ O MOMENTO*
 
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
