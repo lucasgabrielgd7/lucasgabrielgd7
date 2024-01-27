@@ -4,7 +4,7 @@ Olá! O meu nome é Lucas 🖑
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgabrielgd7&theme=radical)
 
-*TECNOLIGIAS QUE EU USO ATÉ O MOMENTO*
+*TECNOLIGIAS QUE EU VENHO USANDO ATÉ O MOMENTO*
 
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
