@@ -1,4 +1,6 @@
-Olá! O meu nome é Lucas 🖑
+### LUCAS GABRIEL - DESENVOLVEDOR FROND-END
+
+*SOBRE MIM*
 
 ****Eu sou dedicado, esforçado e perfeccionista. tudo o que eu faço eu procuro sempre fazer bem feito.****
 
